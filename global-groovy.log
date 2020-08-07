@@ -1,0 +1,28 @@
+2020-08-07 10:36:08,356 INFO  [log] Status=FINISHED, time taken to complete test case is :5389 ms
+2020-08-07 10:36:08,385 INFO  [log] number of test steps executed are :7
+2020-08-07 10:36:17,842 INFO  [log] Status=FINISHED, time taken to complete test case is :9396 ms
+2020-08-07 10:36:17,842 INFO  [log] number of test steps executed are :4
+2020-08-07 10:36:21,431 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>4746</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-07 05:06:22</createdAt>
+            <updatedAt>2020-08-07 05:06:22</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>johndoeeee@gmail.com</email>
+            <firstname>John</firstname>
+            <lastname>Doe</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-07 10:36:21,484 INFO  [log] 4746

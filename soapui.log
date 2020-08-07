@@ -1,0 +1,91 @@
+2020-08-07 10:35:33,454 WARN  [SoapUI] Missing folder [C:\Users\SaritaKumari\Desktop\SOAP Project\my-app\ext] for external libraries
+2020-08-07 10:35:33,741 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\SaritaKumari\soapui-settings.xml]
+2020-08-07 10:35:34,663 INFO  [WsdlProject] Loaded project from [file:/C:/Users/SaritaKumari/Desktop/SOAP%20Project/my-app/API-Project-soapui-project.xml]
+2020-08-07 10:35:35,193 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [API_Project]
+2020-08-07 10:35:35,196 INFO  [SoapUITestCaseRunner] Running Project [API_Project], runType = SEQUENTIAL
+2020-08-07 10:35:35,220 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestFlowUsingPropertyAndPropertyTransfer]
+2020-08-07 10:35:35,245 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 10:35:35,300 INFO  [SoapUITestCaseRunner] running step [PropertyTransferForSave]
+2020-08-07 10:35:35,597 INFO  [SoapUITestCaseRunner] running step [Save]
+2020-08-07 10:35:43,656 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:35:43,656 INFO  [SoapUITestCaseRunner] running step [PropertyTransferForGetById]
+2020-08-07 10:35:43,665 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-08-07 10:35:49,673 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:35:49,674 INFO  [SoapUITestCaseRunner] running step [PropertyTransferForDeleteById]
+2020-08-07 10:35:49,679 INFO  [SoapUITestCaseRunner] running step [DeleteById]
+2020-08-07 10:35:52,928 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:35:52,930 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestFlowUsingPropertyAndPropertyTransfer], time taken: 17662ms, status: FINISHED
+2020-08-07 10:35:52,939 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestFlowUsingPropertyAndPropertyExpansion]
+2020-08-07 10:35:52,941 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 10:35:52,943 INFO  [SoapUITestCaseRunner] running step [Save]
+2020-08-07 10:35:55,354 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:35:55,354 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-08-07 10:35:58,832 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:35:58,832 INFO  [SoapUITestCaseRunner] running step [DeleteById]
+2020-08-07 10:36:02,459 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:02,460 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestFlowUsingPropertyAndPropertyExpansion], time taken: 9509ms, status: FINISHED
+2020-08-07 10:36:02,465 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestFlowUsingGroovyScript]
+2020-08-07 10:36:02,466 INFO  [SoapUITestCaseRunner] running step [GroovyScriptForPropertyTransferTest]
+2020-08-07 10:36:02,932 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestFlowUsingPropertyAndPropertyTransfer]
+2020-08-07 10:36:02,932 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 10:36:02,934 INFO  [SoapUITestCaseRunner] running step [PropertyTransferForSave]
+2020-08-07 10:36:02,944 INFO  [SoapUITestCaseRunner] running step [Save]
+2020-08-07 10:36:05,993 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:05,994 INFO  [SoapUITestCaseRunner] running step [PropertyTransferForGetById]
+2020-08-07 10:36:05,997 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-08-07 10:36:06,873 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:06,873 INFO  [SoapUITestCaseRunner] running step [PropertyTransferForDeleteById]
+2020-08-07 10:36:06,884 INFO  [SoapUITestCaseRunner] running step [DeleteById]
+2020-08-07 10:36:08,331 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:08,331 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestFlowUsingPropertyAndPropertyTransfer], time taken: 5389ms, status: FINISHED
+2020-08-07 10:36:08,356 INFO  [log] Status=FINISHED, time taken to complete test case is :5389 ms
+2020-08-07 10:36:08,385 INFO  [log] number of test steps executed are :7
+2020-08-07 10:36:08,386 INFO  [SoapUITestCaseRunner] running step [GroovyScriptForPropertyExpansionTest]
+2020-08-07 10:36:08,432 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestFlowUsingPropertyAndPropertyExpansion]
+2020-08-07 10:36:08,435 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 10:36:08,437 INFO  [SoapUITestCaseRunner] running step [Save]
+2020-08-07 10:36:09,418 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:09,420 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-08-07 10:36:12,352 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:12,353 INFO  [SoapUITestCaseRunner] running step [DeleteById]
+2020-08-07 10:36:17,840 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:17,841 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestFlowUsingPropertyAndPropertyExpansion], time taken: 9396ms, status: FINISHED
+2020-08-07 10:36:17,842 INFO  [log] Status=FINISHED, time taken to complete test case is :9396 ms
+2020-08-07 10:36:17,842 INFO  [log] number of test steps executed are :4
+2020-08-07 10:36:17,843 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestFlowUsingGroovyScript], time taken: 15373ms, status: FINISHED
+2020-08-07 10:36:17,847 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestFlowUsingGroovyScriptAndProperty]
+2020-08-07 10:36:17,847 INFO  [SoapUITestCaseRunner] running step [GroovyScriptForSave]
+2020-08-07 10:36:17,890 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 10:36:17,890 INFO  [SoapUITestCaseRunner] running step [Save]
+2020-08-07 10:36:21,399 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:21,400 INFO  [SoapUITestCaseRunner] running step [GroovyScriptForCustomerId]
+2020-08-07 10:36:21,431 INFO  [log] <env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <env:Body>
+      <ns1:customerCustomerRepositoryV1SaveResponse>
+         <result>
+            <id>4746</id>
+            <groupId>1</groupId>
+            <createdAt>2020-08-07 05:06:22</createdAt>
+            <updatedAt>2020-08-07 05:06:22</updatedAt>
+            <createdIn>Default Store View</createdIn>
+            <email>johndoeeee@gmail.com</email>
+            <firstname>John</firstname>
+            <lastname>Doe</lastname>
+            <storeId>1</storeId>
+            <websiteId>1</websiteId>
+            <addresses/>
+            <disableAutoGroupChange>0</disableAutoGroupChange>
+            <extensionAttributes>
+               <isSubscribed>false</isSubscribed>
+            </extensionAttributes>
+         </result>
+      </ns1:customerCustomerRepositoryV1SaveResponse>
+   </env:Body>
+</env:Envelope>
+2020-08-07 10:36:21,484 INFO  [log] 4746
+2020-08-07 10:36:21,485 INFO  [SoapUITestCaseRunner] running step [GetById]
+2020-08-07 10:36:23,329 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:23,330 INFO  [SoapUITestCaseRunner] running step [DeleteById]
+2020-08-07 10:36:24,856 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:36:24,857 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestFlowUsingGroovyScriptAndProperty], time taken: 6998ms, status: FINISHED
+2020-08-07 10:36:24,859 INFO  [SoapUITestCaseRunner] Project [API_Project] finished with status [FINISHED] in 49654ms
